@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(209, 141, 154);
+    text-align: center;
+    list-style-position: inside;
+    color: rgb(18, 18, 71);
+}
+a:link {
+    color: blue;
+}
+a:visited {
+    color: purple
+}
+a:hover {
+    color: green;
+}
+table {
+    border-color: black;
+    border-width: 5px;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
